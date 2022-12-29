@@ -1,4 +1,4 @@
-¡Bienvenidos a una nueva sesión! La cosa se pone interesante ya que vamos a ver responsive design :slightly_smiling_face:
+¡Bienvenidos a una nueva sesión! La cosa se pone interesante ya que vamos a ver responsive design :slight_smile:
 
 A modo de resumen:
 
