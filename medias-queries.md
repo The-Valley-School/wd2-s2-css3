@@ -1,4 +1,4 @@
-Las medias queries son unas reglas de CSS específicas que nos van a permitir aplicar determinados estilos a tamaños de pantalla específicos, lo que nos va a ser de gran ayuda a la hora de trabar con los diseños que tengamos de la web.
+Las medias queries son unas reglas de CSS que nos van a permitir aplicar determinados estilos a tamaños de pantalla específicos, lo que nos va a ser de gran ayuda a la hora de trabar con los diseños que tengamos de la web.
 
 Para trabajar con ellas tenemos que introducir la siguiente línea en el head de nuestro HTML.
 
@@ -30,7 +30,7 @@ El siguiente paso sería conocer la sintaxis:
 
 ### EJEMPLO CON MEDIA QUERIES
 
-Como ejemplo vamos a cambiar el color y el tamaño de un título en función del tamaño de pantalla.
+Como ejemplo vamos a cambiar el color de fondo de un título en función del tamaño de pantalla.
 
 ```css
 @media screen and (max-width: 479px) {
