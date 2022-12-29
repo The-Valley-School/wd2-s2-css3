@@ -62,6 +62,6 @@ Como ejemplo vamos a cambiar el color de fondo de un título en función del tam
 
 ## **TAMAÑOS DE PANTALLA**
 
-Al final, a la hora de desarrollar un proyecto, los ajustes de tamaño en las media queries dependerá de los diseños y requisitos del cliente. Por norma general se siguen un aproximado de estos tamaños para poder trabajar con ellos:
+A la hora de desarrollar un proyecto, los ajustes de tamaño en las media queries dependerán de los diseños y requisitos del cliente. Por norma general se sigue un aproximado de los siguientes tamaños para poder trabajar los diferentes dispositivos:
 
 ![Sizes](recursos/responsive.png)
