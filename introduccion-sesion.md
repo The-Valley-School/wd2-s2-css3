@@ -1,4 +1,4 @@
-¡Bienvenidos a una nueva sesión! La cosa se pone interesante ya que vamos a ver responsive design :smile:
+¡Bienvenidos a una nueva sesión! La cosa se pone interesante ya que vamos a ver responsive design.
 
 A modo de resumen:
 
@@ -8,4 +8,4 @@ A modo de resumen:
 - Veremos como usar SVGs y fuentes iconográficas.
 - Trabajaremos con animaciones y transiciones.
 - Haremos una introducción a los tipos de unidades que podemos usar en CSS.
-- Practicaremos con todo esto
+- Practicaremos con todo esto.
