@@ -60,7 +60,7 @@ En CSS tenemos la función calc() que nos permite realizar cálculos para determ
 
 Esta función únicamente admite un parámetro, teniendo como resultado también un único valor.
 
-Acepta los operadores: **suma (+), resta (-), división (/) y multiplicación (*)**
+Acepta los operadores: __suma (+), resta (-), división (/) y multiplicación (*)__
 
  
 
