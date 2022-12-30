@@ -1,6 +1,6 @@
 ## CUSTOM PROPERTIES
 
-Podemos entender las custom properties como una especie de variables en CSS que nos van a permitir utilizar ese valor específico a lo largo del documento css (un color, una medida…).
+Podemos entender las custom properties como una especie de variables en CSS que nos va a permitir utilizar ese valor específico a lo largo del documento css (un color, una medida…).
 
 La sintaxis es la siguiente:
 
@@ -28,11 +28,11 @@ Ejemplo:
 
 ```html
 <div class="contenedor-a">
-  <h1 class="titulo">Primer título </h1>
-	<h1 class="titulo segundo">Segundo título </h1>
+	<h1 class="titulo">Primer título</h1>
+	<h1 class="titulo segundo">Segundo título</h1>
 </div>
 <div class="contenedor-b">
-	<h1 class="titulo ">Tercer título </h1>
+	<h1 class="titulo">Tercer título</h1>
 <div>
 ```
 
