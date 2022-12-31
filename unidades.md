@@ -10,14 +10,14 @@ Se agrupan en dos conjuntos:
 Unidades de medida no relativas a nada y que siempre tendrán el mismo tamaño:
 
 | Unidad | Nombre | Equivale a |
-| --- | --- | --- |
-| cm | Centímetros | 1cm = 96px/2,54 |
-| mm | Milímetros | 1mm = 1/10 de 1cm |
-| Q | Cuartos de milímetros | 1Q = 1/40 de 1cm |
-| in | Pulgadas | 1in = 2,54cm = 96px |
-| pc | Picas | 1pc = 1/6 de 1in |
-| pt | Puntos | 1pt = 1/72 de 1in |
-| px | Píxeles | 1px = 1/96 de 1in |
+| --- |     --- |                       --- |
+| cm |     Centímetros |                1cm = 96px/2,54 |
+| mm |     Milímetros |                 1mm = 1/10 de 1cm |
+| Q |      Cuartos de milímetros |      1Q = 1/40 de 1cm |
+| in |     Pulgadas |                   1in = 2,54cm = 96px |
+| pc |     Picas |                      1pc = 1/6 de 1in |
+| pt |     Puntos |                     1pt = 1/72 de 1in |
+| px |     Píxeles |                    1px = 1/96 de 1in |
 
 Casi siempre, estos valores los usaremos para trabajar temas de formato de impresión más allá del tema de pantalla.
 
