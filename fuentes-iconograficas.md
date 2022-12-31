@@ -4,7 +4,7 @@ A partir de ahí tenemos varias opciones:
 
 ### UTILIZAR FUENTES ICONOGRÁFICAS EXISTENTES
 
-Existen infinidad de fuentes iconográficas gratuitas que podemos usar, a nosotros nos gusta especialmente **fontawesome**
+Existen infinidad de fuentes iconográficas gratuitas que podemos usar, a nosotros nos gusta especialmente **fontawesome**.
 
 > https://fontawesome.com/
 
@@ -25,9 +25,9 @@ A partir de aquí, podremos buscar el icono que queramos en la web e introducirl
 
 ### UTILIZAR FUENTES ICONOGRÁFICAS PROPIAS
 
-Para proyectos propios está muy bien utilizar **fontawesome**, pero por lo general, el equipo de diseño nos proporcionará los iconos propios asociados a la imagen de marca del proyecto con los cuales tendremos que trabajar, para ello crearemos nuestras fuentes iconográficas propias.
+Para proyectos propios está muy bien utilizar **fontawesome**, pero por lo general, el equipo de diseño nos proporcionará los iconos asociados a la imagen de marca del proyecto y con los cuales tendremos que trabajar. Para ello, crearemos nuestras fuentes iconográficas propias.
 
-Para ello, al no tener equipo de diseño en este video, usaremos un repositorio de iconos svg.
+Al no tener equipo de diseño en el video, usamos un repositorio de iconos svg.
 
 > https://www.svgrepo.com/
 
@@ -35,4 +35,4 @@ Tras descargar la selección que queramos usaremos icomoon para crear nuestra pr
 
 > https://icomoon.io/app
 
-Para utilizarlas bastará con copiar y pegar la clase :)
+Para utilizarla bastará con copiar y pegar la clase :)
