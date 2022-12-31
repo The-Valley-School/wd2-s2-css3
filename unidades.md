@@ -10,24 +10,24 @@ Se agrupan en dos conjuntos:
 Unidades de medida no relativas a nada y que siempre tendrán el mismo tamaño:
 
 | Unidad | Nombre | Equivale a |
-| --- |     --- |                       --- |
-| cm |     Centímetros |                1cm = 96px/2,54 |
-| mm |     Milímetros |                 1mm = 1/10 de 1cm |
-| Q |      Cuartos de milímetros |      1Q = 1/40 de 1cm |
-| in |     Pulgadas |                   1in = 2,54cm = 96px |
-| pc |     Picas |                      1pc = 1/6 de 1in |
-| pt |     Puntos |                     1pt = 1/72 de 1in |
-| px |     Píxeles |                    1px = 1/96 de 1in |
+| --- | --- | --- |
+| cm | Centímetros | 1cm = 96px/2,54 |
+| mm | Milímetros | 1mm = 1/10 de 1cm |
+| Q | Cuartos de milímetros | 1Q = 1/40 de 1cm |
+| in | Pulgadas | 1in = 2,54cm = 96px |
+| pc | Picas | 1pc = 1/6 de 1in |
+| pt | Puntos | 1pt = 1/72 de 1in |
+| px |. Píxeles | 1px = 1/96 de 1in |
 
 Casi siempre, estos valores los usaremos para trabajar temas de formato de impresión más allá del tema de pantalla.
 
-El único del listado que usaremos a menudo es el tema del pixel. Existen dos vertientes a lo largo del píxel ya que algunos hablan de que se trata de una unidad relativa ya que depende de la resolución de pantalla del monitor.
+El único del listado que usaremos a menudo es el pixel. Existen dos vertientes a cerca del píxel ya que algunos hablan de que se trata de una unidad relativa ya que depende de la resolución de pantalla del monitor.
 
 ## UNIDADES DE LONGITUD RELATIVA
 
-El valor de estas unidades siempre estarán referenciadas por otro valor. Nos son de gran ayuda a la hora de trabajar con diferentes tamaños de pantalla.
+El valor de estas unidades siempre estará referenciado por otro valor. Nos son de gran ayuda a la hora de trabajar con diferentes tamaños de pantalla.
 
-| em | Tamaño de letra del elemento padre, en el caso de propiedades tipográficas como font-size, y tamaño de la fuente del propio elemento en el caso de otras propiedades, como width. |
+| em | Tamaño de letra del elemento padre, en el caso de propiedades tipográficas como font-size, y tamaño de la fuente del propio elemento en el caso de otras propiedades, como width, padding, etc. |
 | --- | --- |
 | ex | Altura x de la fuente del elemento. |
 | ch | La medida de avance (ancho) del glifo "0" de la letra del elemento. |
@@ -45,16 +45,16 @@ Tamaño relativo al tamaño de letra del elemento. Por ejemplo, si queremos que 
  
 
 ```html
-<h1 class="title-a">Título</h1>
-<h1 class="title-b">Título</h1>
+<h1 class="title title-a">Título</h1>
+<h1 class="title title-b">Título</h1>
 ```
 
   
 
 ```css
 .title{
-  display: inline-block;
-  padding: 0.5em;
+	display: inline-block;
+	padding: 0.5em;
 	background-color: lightcoral;
 }
 
@@ -89,8 +89,8 @@ Relativa a la altura de la letra **x minúscula.** Idéntico al funcionamiento d
 
 ```css
 .title{
-  display: inline-block;
-  padding: 1ex;
+	display: inline-block;
+	padding: 1ex;
 	background-color: lightcoral;
 }
 ```
