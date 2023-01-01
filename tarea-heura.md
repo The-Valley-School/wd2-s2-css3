@@ -2,7 +2,7 @@
 
 ---
 
-El equipo de Heura se ha enterado de que ya sabemos hacer web responsive y nos ha pedido que les echemos una mano con el header de su web:
+El equipo de Heura se ha enterado de que ya sabemos hacer webs responsive y nos ha pedido que les echemos una mano con el header de su web:
 
 - Diseño para tamaños de pantalla de menos de 1024px
 
