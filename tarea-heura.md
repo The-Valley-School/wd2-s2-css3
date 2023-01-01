@@ -15,7 +15,7 @@ El equipo de Heura se ha enterado de que ya sabemos hacer webs responsive y nos 
 Debemos:
 
 - Utilizar media queries para adaptar el menú a los tamaños de pantalla.
-- Integrar dentro de nuestro proyecto fontawesome para utilizar el icono de menú
-- Usar la tipografía de Heura suministrada
+- Integrar dentro de nuestro proyecto fontawesome para utilizar el icono de menú.
+- Usar la tipografía de Heura suministrada.
 - Tanto para el hover de cada uno de los elementos del menú desktop como para la hamburguesa del menú movil, tendremos que añadir una transición.
-- Color del fondo: #f9e021
+- Color del fondo: #f9e021.
